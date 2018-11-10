@@ -10,8 +10,5 @@
       }
     ]
   },
-  "alias": "Band",
-  "files": [
-    "dist"
-  ]
+  "alias": "Band"
 }
